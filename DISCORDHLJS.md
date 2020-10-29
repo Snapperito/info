@@ -1,4 +1,3 @@
-<!--LANGLIST-->
 |Language|Discord Classes|
 |:-----------------------|:---------------------|
 |1c|N/A|
@@ -87,7 +86,7 @@
 |LiveScript|livescript, ls|
 |Lua|lua|
 |Makefile|makefile, mk, mak|
-Markdown|markdown, md, mkdown, mkd
+|Markdown|markdown, md, mkdown, mkd|
 |Mathematica|mathematica, mma, wl|
 |Matlab|matlab|
 |Maxima|maxima|
@@ -110,53 +109,61 @@ Markdown|markdown, md, mkdown, mkd
 |Oxygene|oxygene|
 |PF|pf, pf.conf|
 |PHP|php, php3, php4, php5, php6, php7|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|Parser3|parser3|
+|Perl|perl, pl, pm|
+|Plaintext|plaintext, txt, text|
+|Pony|pony|
+|PostgreSQL & PL/pgSQL|pgsql, postgres, postgresql|
+|PowerShell|powershell, ps, ps1|
+|Processing|processing|
+|Prolog|prolog|
+|Properties|properties|
+|Protocol Buffers|protobuf|
+|Puppet|puppet, pp|
+|Python|python, py, gyp|
+|Python profiler results|profile|
+|Python REPL|python-repl, pycon|
+|Q|k, kdb|
+|QML|qml|
+|R|r|
+|ReasonML|reasonml, re|
+|RenderMan RIB|rib|
+|RenderMan RSL|rsl|
+|Roboconf|roboconf, graph, instances|
+|Robot Framework||
+|Ruby|ruby, rb, gemspec, podspec, thor, irb|
+|Rust|rust, rs|
+|SAS|sas|
+|SCSS|scss|
+|SQL|sql|
+|STEP Part 21|STEP Part 21|
+|Scala|scala|
+|Scheme|scheme|
+|Scilab|scilab, sci|
+|Smali|smali|
+|Smalltalk|smalltalk|
+|SML|sml, ml|
+|Stan|stan, stanfuncs|
+|Stata||
+|Stylus|stylus, styl|
+|SubUnit|subunit|
+|Swift|swift|
+|Tcl|tcl, tk|
+|Test Anything Protocol|tap|
+|Thrift|thrift|
+|TP|tp|
+|Twig|twig, craftcms|
+|TypeScript|typescript, ts|
+|VB.<i><<i>Net|vbnet, vb|
+|VBScript|vbscript, vbs|
+|VHDL|vhdl|
+|Vala|vala|
+|Verilog|verilog, v|
+|Vim Script|vim|
+|X++|axapta|
+|x86 Assembly|x86asm|
+|XL|xl, tao	|
+|XQuery|xquery, xpath, xq|
+|YAML|yml, yaml|
+|Zephir|zephir, zep|
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://raw.githubusercontent.com/highlightjs/highlight.js/master/SUPPORTED_LANGUAGES.md
-
-
-##Overlapwarning
-
-Ifyoureusinganyoftheclassesbelow**atthesametime**makesuretousethefullnameandnotthealiastoavoidanyproblems:)
-
-|1|1|
