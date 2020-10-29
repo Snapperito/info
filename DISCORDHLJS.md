@@ -154,7 +154,7 @@
 |TP|tp|
 |Twig|twig, craftcms|
 |TypeScript|typescript, ts|
-|VB.<i><<i>Net|vbnet, vb|
+|VB.<i><i>Net|vbnet, vb|
 |VBScript|vbscript, vbs|
 |VHDL|vhdl|
 |Vala|vala|
