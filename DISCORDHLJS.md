@@ -120,7 +120,7 @@
 |Properties|properties||
 |Protocol Buffers|protobuf||
 |Puppet|puppet, pp|vscode-material-icon-theme/icons/puppet|
-|Python|python, py, gyp|vscode-material-icon-theme/icons/|
+|Python|python, py, gyp|vscode-material-icon-theme/icons/python|
 |Python profiler results|profile||
 |Python REPL|python-repl, pycon||
 |Q|k, kdb||
