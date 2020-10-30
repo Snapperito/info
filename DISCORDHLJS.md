@@ -1,6 +1,6 @@
 |Language|Discord Classes| Icons |
 |:-----------------------|:---------------------|:---------------------|
-|1c|N/A||
+|1c|1c||
 |Augmented Backus-Naur Form|abnf||
 |Apache Access Log|accesslog||
 |Ada|ada||
@@ -143,6 +143,7 @@
 |Smalltalk|smalltalk||
 |SML|sml, ml|vscode-material-icon-theme/icons/sml|
 |Stan|stan, stanfuncs||
+|Stata|stata||
 |Stylus|stylus, styl|vscode-material-icon-theme/icons/stylus|
 |SubUnit|subunit||
 |Swift|swift|vscode-material-icon-theme/icons/swift|
