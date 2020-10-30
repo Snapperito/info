@@ -26,7 +26,7 @@
 |C++|cpp, hpp, cc, hh, c++, h++, cxx, hxx||
 |C/AL|cal||
 |Cache Object Script|cos, cls||
-|CMake|cmake, cmake.<i></i>in|vscode-material-icon-theme/icons/cmake|
+|CMake|cmake, cmake.in|vscode-material-icon-theme/icons/cmake|
 |Coq|coq||
 |CSP|csp||
 |CSS|css|vscode-material-icon-theme/icons/css|
