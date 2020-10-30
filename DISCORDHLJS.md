@@ -157,7 +157,7 @@
 |VHDL|vhdl||
 |Vala|vala|vscode-material-icon-theme/icons/vala|
 |Verilog|verilog, v|vscode-material-icon-theme/icons/verilog|
-|Vim Script|vim|vim|
+|Vim Script|vim|vscode-material-icon-theme/icons/vim|
 |X++|axapta||
 |x86 Assembly|x86asm||
 |XL|xl, tao	||
