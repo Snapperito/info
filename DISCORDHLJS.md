@@ -102,7 +102,7 @@
 |Nim|nim||
 |Nix|nix|vscode-material-icon-theme/icons/nix|
 |OCaml|ocaml|vscode-material-icon-theme/icons/ocaml|
-|Objective C|objectivec, mm, objc, obj-c,||
+|Objective C|objectivec, mm, objc, obj-c||
 |OpenGL Shading Language|glsl||
 |OpenSCAD|openscad,scad||
 |Oracle Rules Language|ruleslanguage||
