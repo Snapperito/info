@@ -41,8 +41,8 @@
 |Dart|dart|vscode-material-icon-theme/icons/dart|
 |Delphi|delphi, dpr, dfm, pas, pascal, freepascal, lazarus, lpr, lfm||
 |Diff|diff, patch|vscode-material-icon-theme/icons/diff|
-|Django|Django|vscode-material-icon-theme/icons/django|
-|Django|dockerfile, docker||
+|Django|django|vscode-material-icon-theme/icons/django|
+|Docker|dockerfile, docker||
 |dsconfig|dsconfig||
 |DTS (Device Tree)|dts||
 |Dust|dust, dst||
