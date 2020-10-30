@@ -65,7 +65,7 @@
 |HTML, XML|xml, html, xhtml, rss, atom, xjb, xsd, xsl, plist, svg|vscode-material-icon-theme/icons/html|
 |HTTP|http, https|vscode-material-icon-theme/icons/http|
 |Haml|haml|vscode-material-icon-theme/icons/haml|
-|Handlebars|handlebars, hbs, html.hbs, html.handlebarsvscode-material-icon-theme/icons/handlebars|
+|Handlebars|handlebars, hbs, html.hbs, html.handlebars|vscode-material-icon-theme/icons/handlebars|
 |Haskell|haskell, hs|vscode-material-icon-theme/icons/haskell|
 |Haxe|haxe, hx|vscode-material-icon-theme/icons/haxe|
 |Hy|hy, hylang||
@@ -98,7 +98,7 @@
 |Moonscript|moonscript, moon|vscode-material-icon-theme/icons/moonscript|
 |N1QL|n1ql||
 |NSIS|nsis||
-|Nginx|nginx, nginxconf	||
+|Nginx|nginx, nginxconf||
 |Nim|nim||
 |Nix|nix|vscode-material-icon-theme/icons/nix|
 |OCaml|ocaml|vscode-material-icon-theme/icons/ocaml|
@@ -130,7 +130,6 @@
 |RenderMan RIB|rib||
 |RenderMan RSL|rsl||
 |Roboconf|roboconf, graph, instances||
-|Robot Framework|||
 |Ruby|ruby, rb, gemspec, podspec, thor, irb|vscode-material-icon-theme/icons/ruby|
 |Rust|rust, rs|vscode-material-icon-theme/icons/rust|
 |SAS|sas|vscode-material-icon-theme/icons/sas|
@@ -144,7 +143,6 @@
 |Smalltalk|smalltalk||
 |SML|sml, ml|vscode-material-icon-theme/icons/sml|
 |Stan|stan, stanfuncs||
-|Stata|||
 |Stylus|stylus, styl|vscode-material-icon-theme/icons/stylus|
 |SubUnit|subunit||
 |Swift|swift|vscode-material-icon-theme/icons/swift|
@@ -154,7 +152,7 @@
 |TP|tp||
 |Twig|twig, craftcms|vscode-material-icon-theme/icons/twig|
 |TypeScript|typescript, ts|vscode-material-icon-theme/icons/typescript|
-|VB.<i><<i>Net|vbnet, vb||
+|VB.Net|vbnet, vb||
 |VBScript|vbscript, vbs||
 |VHDL|vhdl||
 |Vala|vala|vscode-material-icon-theme/icons/vala|
