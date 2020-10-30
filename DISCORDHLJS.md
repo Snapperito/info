@@ -146,7 +146,7 @@
 |Stylus|stylus, styl|vscode-material-icon-theme/icons/stylus|
 |SubUnit|subunit||
 |Swift|swift|vscode-material-icon-theme/icons/swift|
-|Tcl|tcl, tk|vscode-material-icon-theme/icons/tcs|
+|Tcl|tcl, tk|vscode-material-icon-theme/icons/tcl|
 |Test Anything Protocol|tap||
 |Thrift|thrift||
 |TP|tp||
