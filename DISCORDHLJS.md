@@ -20,7 +20,7 @@
 |Bash|bash, sh , zsh|vscode-material-icon-theme/icons/console|
 |Basic|basic||
 |Backus–Naur Form|bnf||
-| Brainfuck|brainfuck, bf|vscode-material-icon-theme/icons/brainfuck|
+|Brainfuck|brainfuck, bf|vscode-material-icon-theme/icons/brainfuck|
 |C#|csharp, cs|vscode-material-icon-theme/icons/csharp|
 |C|c, h|vscode-material-icon-theme/icons/c|
 |C++|cpp, hpp, cc, hh, c++, h++, cxx, hxx||
